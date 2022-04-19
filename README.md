@@ -1,2 +1,2 @@
 # RTLunchBox
-Containerized Red Team Infrastructure and Tools
+Red Team Infrastructure and Tools
